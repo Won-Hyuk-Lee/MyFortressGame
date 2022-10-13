@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - FxTemporaire
+  - Map
+  - Wind
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 4277414291
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 2343518841
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 3942785467
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 1267534087
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 2913080353
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 2752011963
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 1725194847
+    locked: 0
+  - name: New Layer 8
+    uniqueID: 1341512123
+    locked: 0
+  - name: New Layer 9
+    uniqueID: 1116417813
+    locked: 0
+  - name: New Layer 10
+    uniqueID: 3368647189
+    locked: 0
