@@ -12,15 +12,15 @@ public class Enemy : MonoBehaviour
     public GameObject FirePosL;
     public GameObject bullet;
     public GameObject a;
-    public float Power;
-    public float Xcount;
-    public float RandomPower1;
-    public float RandomPower2;
-    public float RandomPower3;
+    private float Power;
+    private float Xcount;
+    private float RandomPower1;
+    private float RandomPower2;
+    private float RandomPower3;
     //public bool EnemyTurnMove = false;
     public float CurHp = 300f;
-    public float MaxHp = 300f;
-    public Slider HpBar;
+    private float MaxHp = 300f;
+    [SerializeField] private Slider HpBar;
     // Start is called before the first frame update
 
 
